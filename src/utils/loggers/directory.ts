@@ -1,3 +1,3 @@
 import path from 'path';
 
-export const logDirectory = path.join(__dirname, '../../logs');
+export const logDirectory = path.join(__dirname, '../../../logs');
